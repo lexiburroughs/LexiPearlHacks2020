@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		03FD030D2402CF1A0052FCE4 /* ran.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03FD030C2402CF1A0052FCE4 /* ran.jpg */; };
+		03FD030F2402D14B0052FCE4 /* test.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 03FD030E2402D14B0052FCE4 /* test.jpg */; };
+		11B480512402C7DC00AF4A5A /* hot.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11B480502402C7DC00AF4A5A /* hot.jpg */; };
+		11B480532402C90F00AF4A5A /* cold.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11B480522402C90F00AF4A5A /* cold.jpg */; };
+		11B480552402C91600AF4A5A /* warm.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11B480542402C91600AF4A5A /* warm.jpg */; };
+		11B480572402C91B00AF4A5A /* normal.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11B480562402C91B00AF4A5A /* normal.jpg */; };
+		11B480592402C92A00AF4A5A /* freezing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 11B480582402C92900AF4A5A /* freezing.jpg */; };
 		11BF0D722401C468007EFDC5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BF0D712401C468007EFDC5 /* AppDelegate.swift */; };
 		11BF0D742401C468007EFDC5 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BF0D732401C468007EFDC5 /* SceneDelegate.swift */; };
 		11BF0D762401C468007EFDC5 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BF0D752401C468007EFDC5 /* ViewController.swift */; };
@@ -15,6 +22,7 @@
 		11BF0D7E2401C46A007EFDC5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 11BF0D7C2401C46A007EFDC5 /* LaunchScreen.storyboard */; };
 		11BF0D892401C46A007EFDC5 /* OutfitDesignerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BF0D882401C46A007EFDC5 /* OutfitDesignerTests.swift */; };
 		11BF0D942401C46A007EFDC5 /* OutfitDesignerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BF0D932401C46A007EFDC5 /* OutfitDesignerUITests.swift */; };
+		11BF0DA22401CD0C007EFDC5 /* SecondScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11BF0DA12401CD0C007EFDC5 /* SecondScreen.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +43,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		03FD030C2402CF1A0052FCE4 /* ran.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = ran.jpg; sourceTree = "<group>"; };
+		03FD030E2402D14B0052FCE4 /* test.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = test.jpg; sourceTree = "<group>"; };
+		11B480502402C7DC00AF4A5A /* hot.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hot.jpg; sourceTree = "<group>"; };
+		11B480522402C90F00AF4A5A /* cold.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cold.jpg; sourceTree = "<group>"; };
+		11B480542402C91600AF4A5A /* warm.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = warm.jpg; sourceTree = "<group>"; };
+		11B480562402C91B00AF4A5A /* normal.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = normal.jpg; sourceTree = "<group>"; };
+		11B480582402C92900AF4A5A /* freezing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = freezing.jpg; sourceTree = "<group>"; };
 		11BF0D6E2401C468007EFDC5 /* OutfitDesigner.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OutfitDesigner.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11BF0D712401C468007EFDC5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		11BF0D732401C468007EFDC5 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +64,7 @@
 		11BF0D8F2401C46A007EFDC5 /* OutfitDesignerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = OutfitDesignerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		11BF0D932401C46A007EFDC5 /* OutfitDesignerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OutfitDesignerUITests.swift; sourceTree = "<group>"; };
 		11BF0D952401C46A007EFDC5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11BF0DA12401CD0C007EFDC5 /* SecondScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondScreen.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,13 +115,21 @@
 		11BF0D702401C468007EFDC5 /* OutfitDesigner */ = {
 			isa = PBXGroup;
 			children = (
+				03FD030C2402CF1A0052FCE4 /* ran.jpg */,
+				11B480502402C7DC00AF4A5A /* hot.jpg */,
+				11B480582402C92900AF4A5A /* freezing.jpg */,
 				11BF0D712401C468007EFDC5 /* AppDelegate.swift */,
+				11B480522402C90F00AF4A5A /* cold.jpg */,
+				11B480562402C91B00AF4A5A /* normal.jpg */,
+				11B480542402C91600AF4A5A /* warm.jpg */,
 				11BF0D732401C468007EFDC5 /* SceneDelegate.swift */,
 				11BF0D752401C468007EFDC5 /* ViewController.swift */,
 				11BF0D772401C468007EFDC5 /* Main.storyboard */,
 				11BF0D7A2401C46A007EFDC5 /* Assets.xcassets */,
+				03FD030E2402D14B0052FCE4 /* test.jpg */,
 				11BF0D7C2401C46A007EFDC5 /* LaunchScreen.storyboard */,
 				11BF0D7F2401C46A007EFDC5 /* Info.plist */,
+				11BF0DA12401CD0C007EFDC5 /* SecondScreen.swift */,
 			);
 			path = OutfitDesigner;
 			sourceTree = "<group>";
@@ -233,7 +257,14 @@
 			buildActionMask = 2147483647;
 			files = (
 				11BF0D7E2401C46A007EFDC5 /* LaunchScreen.storyboard in Resources */,
+				03FD030F2402D14B0052FCE4 /* test.jpg in Resources */,
+				11B480532402C90F00AF4A5A /* cold.jpg in Resources */,
+				11B480572402C91B00AF4A5A /* normal.jpg in Resources */,
+				03FD030D2402CF1A0052FCE4 /* ran.jpg in Resources */,
 				11BF0D7B2401C46A007EFDC5 /* Assets.xcassets in Resources */,
+				11B480512402C7DC00AF4A5A /* hot.jpg in Resources */,
+				11B480552402C91600AF4A5A /* warm.jpg in Resources */,
+				11B480592402C92A00AF4A5A /* freezing.jpg in Resources */,
 				11BF0D792401C468007EFDC5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -260,6 +291,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				11BF0D762401C468007EFDC5 /* ViewController.swift in Sources */,
+				11BF0DA22401CD0C007EFDC5 /* SecondScreen.swift in Sources */,
 				11BF0D722401C468007EFDC5 /* AppDelegate.swift in Sources */,
 				11BF0D742401C468007EFDC5 /* SceneDelegate.swift in Sources */,
 			);

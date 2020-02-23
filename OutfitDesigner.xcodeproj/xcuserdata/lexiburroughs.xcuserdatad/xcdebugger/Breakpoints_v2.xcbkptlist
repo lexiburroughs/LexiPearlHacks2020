@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "06156F0C-A754-47DC-81CC-377F4E3E9F93"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C2E5BC26-29BD-4177-B3C0-A74B9B60ADB6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutfitDesigner/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "C2E5BC26-29BD-4177-B3C0-A74B9B60ADB6 - 36ea2923a4baabc5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.ViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OutfitDesigner.ViewController"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "C2E5BC26-29BD-4177-B3C0-A74B9B60ADB6 - a209ac3f8efc8f85"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OutfitDesigner.ViewController"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "C2E5BC26-29BD-4177-B3C0-A74B9B60ADB6 - e2ae35ad17b619fd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.ViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OutfitDesigner.ViewController&gt;"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "C2E5BC26-29BD-4177-B3C0-A74B9B60ADB6 - d03a11cf9de3e7c9"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OutfitDesigner.ViewController&gt;"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "C2E5BC26-29BD-4177-B3C0-A74B9B60ADB6 - 670b53d0c5c4ed58"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.ViewController.__deallocating_deinit"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32B8204F-1A00-4DA7-8DB2-4E1FC978CEDD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutfitDesigner/SecondScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "SecondScreen"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "32B8204F-1A00-4DA7-8DB2-4E1FC978CEDD - d4cf140b100a1b7e"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.SecondScreen.temperature.getter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/SecondScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "32B8204F-1A00-4DA7-8DB2-4E1FC978CEDD - 8ca9dad9f1785f72"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.SecondScreen.temperature.setter : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/SecondScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "32B8204F-1A00-4DA7-8DB2-4E1FC978CEDD - 6597a786d7ab7863"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.SecondScreen.temperature.modify : Swift.Optional&lt;Swift.Int&gt;"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/SecondScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "32B8204F-1A00-4DA7-8DB2-4E1FC978CEDD - c9eb1e2c7446a7e7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.SecondScreen.temperature.modify : Swift.Optional&lt;Swift.Int&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/SecondScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "32B8204F-1A00-4DA7-8DB2-4E1FC978CEDD - e147d7143c89b3ec"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.SecondScreen.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; OutfitDesigner.SecondScreen"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/SecondScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "32B8204F-1A00-4DA7-8DB2-4E1FC978CEDD - 4fffe7f3d3a5f7c2"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutfitDesigner.SecondScreen.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;OutfitDesigner.SecondScreen&gt;"
+                  moduleName = "OutfitDesigner"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lexiburroughs/Desktop/OutfitDesigner/OutfitDesigner/SecondScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89002B56-B020-484C-BC7B-B002AC0E0FFC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutfitDesigner/SecondScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "image"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
